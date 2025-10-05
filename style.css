@@ -1,0 +1,41 @@
+img {
+    
+    width: 400px;
+    border-radius: 20px;
+        margin-top: 30px;
+
+}
+.btn{
+    background: #b523c1;
+    padding: 5px 25px;
+    color: #fa9beb;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background: rgba(181, 35, 193, 0.57);
+}
+
+
+.menu__link {
+    background: #67ffe8;
+    padding: 5px 25px;
+    color: rgb(227, 255, 251);
+    text-decoration: none;
+    border-radius: 10px;
+}
+.container {
+    width: 800px;
+    background: #c4a581;
+    padding: 40px 60px;
+    margin: 0 auto;
+        border-radius: 10px;
+    
+}
+
+body {
+    font-family: Arial;
+    background: #8b7862;
+    padding: 30px 120px;
+}
